@@ -1,16 +1,16 @@
-# lab_mobile_kickoff
+# Lab Mobile Kickoff
 
-A new Flutter project.
+Projeto Flutter desenvolvido para a disciplina de Laboratório Mobile.
 
-## Getting Started
+## Estrutura do Projeto
 
-This project is a starting point for a Flutter application.
+- presentation
+- application
+- domain
+- data
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Model Servico
+- Repository Fake em memória
+- Tela inicial com botão funcional
